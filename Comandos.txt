@@ -1,0 +1,8 @@
+5) git clone https://github.com/AlexxMzz/CrusoGit
+
+Descarga mediante la consola los archivos del repositorio
+
+
+6) git pull origin master
+
+Solo si la queremos bajar toda la informacion y la carpeta no esta en seguimiento.
